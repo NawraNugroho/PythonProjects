@@ -21,3 +21,5 @@ for k in range(length):
     for l in range(k+1):
         print(pascal[k][l], end="     ")
     space -= 3  
+
+input("Press enter key to exit.")
